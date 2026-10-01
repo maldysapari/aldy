@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://instagram.com/aldy">
+<a href="https://www.instagram.com/m.aldysapari?stkn=MTl1aTcybXptd3MzMg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://wa.me/+62815743129">
